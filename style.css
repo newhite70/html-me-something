@@ -9,10 +9,7 @@
 
 
 /* basic elements */
-html {
-	margin: 0;
-	padding: 0;
-	}
+
 body { 
 	font: 75% Impact, Charcoal, sans-serif;
 	font-size: 15pt;
@@ -20,23 +17,23 @@ body {
 	color: #407a05; 
 	background: #fff url(images/halo3.jpg) no-repeat center; 
 	background-size: width: 1080; height: 720;
-	margin: 25; 
-	padding: 25;
+	margin: 25pt; 
+	padding: 25pt;
 	}
 h1 {
 	font: 50% Impact, Charcoal, sans-serif;
 	font-size: 40pt;
 	line-height: 5;
 	color: rgb(4, 2, 59);
-	margin: 10; 
-	padding: 10;
+	margin: 60pt; 
+	padding: 30pt;
 }
 h2 {
 	font-size: x-large;
 	font: 33% Impact, Charcoal, sans-serif
 	line-height: 5;
 	color: red;
-	margin: 10; 
+	margin: 50; 
 	padding: 10;
 }
 
@@ -50,10 +47,7 @@ h2 {
 header span{
 	background-color: tomato;
 }
-.black{
-	color: black;
-	background-color: blanchedalmond;
-}
+
 
 #footers{
 	background-color: yellowgreen;
