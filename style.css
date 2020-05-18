@@ -15,8 +15,9 @@ html {
 	}
 body { 
 	font: 75% Impact, Charcoal, sans-serif;
+	font-size: 15pt;
 	line-height: 2;
-	color: #555753; 
+	color: #407a05; 
 	background: #fff url(images/halo3.jpg) no-repeat center; 
 	background-size: width: 1080; height: 720;
 	margin: 25; 
@@ -24,9 +25,9 @@ body {
 	}
 h1 {
 	font: 50% Impact, Charcoal, sans-serif;
-	font-size: xx-large;
+	font-size: 40pt;
 	line-height: 5;
-	color: rgb(2, 1, 27);
+	color: rgb(4, 2, 59);
 	margin: 10; 
 	padding: 10;
 }
@@ -34,18 +35,26 @@ h2 {
 	font-size: x-large;
 	font: 33% Impact, Charcoal, sans-serif
 	line-height: 5;
-	color: rgb(2, 1, 27);
+	color: red;
 	margin: 10; 
 	padding: 10;
 }
 
 .white{
-	background-color: navy;
+	background-color: rgb(134, 168, 243);
 	font: outline;
+	color: black;
 	
 	
+}
+header span{
+	background-color: tomato;
 }
 .black{
 	color: black;
 	background-color: blanchedalmond;
+}
+
+#footers{
+	background-color: yellowgreen;
 }
