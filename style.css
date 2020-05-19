@@ -25,16 +25,32 @@ h1 {
 	font-size: 40pt;
 	line-height: 5;
 	color: rgb(4, 2, 59);
-	margin: 60pt; 
-	padding: 2pt;
+	margin: 60px; 
+	padding: 2px;
 }
 h2 {
 	font-size: x-large;
 	font: 33% Impact, Charcoal, sans-serif
 	line-height: 5;
 	color: red;
-	margin: 50pt; 
-	padding: 2pt;
+	margin: 50px; 
+	padding: 2px;
+}
+h3 {
+	font-size: large;
+	font: 33% Impact, Charcoal, sans-serif
+	line-height: 5;
+	color: blue;
+	margin: 30px; 
+	padding: 2px;
+}
+h4 {
+	font-size: xx-small;
+	font: 33% Impact, Charcoal, sans-serif
+	line-height: 5;
+	color: purple;
+	margin: 20px; 
+	padding: 5px;
 }
 
 .white{
@@ -42,8 +58,8 @@ h2 {
 	font: outline;
 	color: black;
 	align-content: center;
-	margin: 5pt; 
-	padding: 5pt;
+	margin: 5px; 
+	padding: 5px;
 	
 	
 }
@@ -52,9 +68,9 @@ header span{
 }
 
 
-#footers{
-	background-color: yellowgreen;
+footer{
+	background-color: rgb(59, 87, 3);
 	text-align: justify;
-	margin: 10pt; 
-	padding: 5pt;
+	margin: 15px; 
+	padding: 15px;
 }
