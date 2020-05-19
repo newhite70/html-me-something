@@ -70,7 +70,8 @@ header span{
 
 footer{
 	background-color: rgb(59, 87, 3);
-	text-align: justify;
+	color: black;
+	text-align: center;
 	margin: 15px; 
 	padding: 15px;
 }
