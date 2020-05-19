@@ -15,10 +15,10 @@ body {
 	font-size: 15pt;
 	line-height: 2;
 	color: #407a05; 
-	background: #fff url(images/halo3.jpg) no-repeat center; 
+	background: #fff url(images/halo3.jpg) no-repeat top center;
+	background-attachment: fixed; 
 	background-size: width: 1080; height: 720;
-	margin: 25pt; 
-	padding: 25pt;
+
 	}
 h1 {
 	font: 50% Impact, Charcoal, sans-serif;
@@ -26,21 +26,24 @@ h1 {
 	line-height: 5;
 	color: rgb(4, 2, 59);
 	margin: 60pt; 
-	padding: 30pt;
+	padding: 2pt;
 }
 h2 {
 	font-size: x-large;
 	font: 33% Impact, Charcoal, sans-serif
 	line-height: 5;
 	color: red;
-	margin: 50; 
-	padding: 10;
+	margin: 50pt; 
+	padding: 2pt;
 }
 
 .white{
 	background-color: rgb(134, 168, 243);
 	font: outline;
 	color: black;
+	align-content: center;
+	margin: 5pt; 
+	padding: 5pt;
 	
 	
 }
@@ -51,4 +54,7 @@ header span{
 
 #footers{
 	background-color: yellowgreen;
+	text-align: justify;
+	margin: 10pt; 
+	padding: 5pt;
 }
